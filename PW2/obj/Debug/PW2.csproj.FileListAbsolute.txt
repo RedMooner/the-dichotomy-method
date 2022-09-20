@@ -1,0 +1,16 @@
+D:\PWCHM\PW2\PW2\bin\Debug\PW2.exe.config
+D:\PWCHM\PW2\PW2\bin\Debug\PW2.exe
+D:\PWCHM\PW2\PW2\bin\Debug\PW2.pdb
+D:\PWCHM\PW2\PW2\obj\Debug\PW2.csproj.AssemblyReference.cache
+D:\PWCHM\PW2\PW2\obj\Debug\PW2.csproj.SuggestedBindingRedirects.cache
+D:\PWCHM\PW2\PW2\obj\Debug\PW2.csproj.CoreCompileInputs.cache
+D:\PWCHM\PW2\PW2\obj\Debug\PW2.exe
+D:\PWCHM\PW2\PW2\obj\Debug\PW2.pdb
+C:\Users\AlexPC\Desktop\PW2\PW2\bin\Debug\PW2.exe.config
+C:\Users\AlexPC\Desktop\PW2\PW2\bin\Debug\PW2.exe
+C:\Users\AlexPC\Desktop\PW2\PW2\bin\Debug\PW2.pdb
+C:\Users\AlexPC\Desktop\PW2\PW2\obj\Debug\PW2.csproj.AssemblyReference.cache
+C:\Users\AlexPC\Desktop\PW2\PW2\obj\Debug\PW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\AlexPC\Desktop\PW2\PW2\obj\Debug\PW2.csproj.CoreCompileInputs.cache
+C:\Users\AlexPC\Desktop\PW2\PW2\obj\Debug\PW2.exe
+C:\Users\AlexPC\Desktop\PW2\PW2\obj\Debug\PW2.pdb
